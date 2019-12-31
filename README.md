@@ -30,7 +30,7 @@
 
 ##### 3.5.利用Dockerfile文件创建包含WordPress的镜像
 
-## 4.Ceph的安装与实践
+## [4.Ceph的安装与实践](https://github.com/hhbhh0906/CloudComputing/blob/master/chapter4/Ceph.md)
 
 ##### 1.配置所有节点
 

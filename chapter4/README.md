@@ -1,4 +1,4 @@
-## 实验四 Ceph的安装与实践**](https://github.com/hhbhh0906/CloudComputing/blob/master/chapter3/Docker.md)
+## [实验四 Ceph的安装与实践](https://github.com/hhbhh0906/CloudComputing/blob/master/chapter4/Ceph.md)
 
 ##### 1.配置所有节点
 
